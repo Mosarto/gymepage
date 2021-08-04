@@ -77,13 +77,13 @@ const RESOURCES = {
 "assets/assets/imgs/star.png": "19af91c84eee8e333fccc95f72cb54d5",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "e94d466ef86cfdb8387da01155a33398",
+"assets/NOTICES": "35503bbcd2da8bb02668658ce708d4ee",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "ff3474ec31f4dc52791d15ad6d6a1dfe",
-"/": "ff3474ec31f4dc52791d15ad6d6a1dfe",
-"main.dart.js": "85be7169aaaa25b69c965d1a6490c238",
+"index.html": "740e0d63753fef5495720c0daba016a7",
+"/": "740e0d63753fef5495720c0daba016a7",
+"main.dart.js": "e7058fd679b48d9722d699a5d2d798b8",
 "manifest.json": "4a36b757a5b76904498896d1f869168a",
 "version.json": "c02f1cd125637600b0ec6327231d2307"
 };
